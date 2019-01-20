@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["donb9261@outlook.com"]
 
   spec.summary       = %q{Automates the copyright insertion sitewide}
-  spec.homepage      = "fuelcnc.com"
+  spec.homepage      = "https://www.fuelcnc.com"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
